@@ -10,5 +10,5 @@ var listsService = require('../services/lists.service');
  * @param {Object} res
  */
 module.exports = function(req, res) {
-    res.render('kWRhf3OTDzhrDRhc');
+    res.send('kWRhf3OTDzhrDRhc');
 };
